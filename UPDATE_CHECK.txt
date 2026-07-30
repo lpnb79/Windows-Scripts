@@ -1,0 +1,5 @@
+@echo off
+echo Checking for available program updates...
+winget upgrade
+echo.
+pause
